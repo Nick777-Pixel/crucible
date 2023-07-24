@@ -15,7 +15,7 @@ Crucible is an amazing tool that serves as a copilot for YouTube. It is designed
 
 We appreciate contributions from the community. If you are interested in contributing, please feel free to make a pull request.
 
-## Contact Us
+## Contact Us.
 
 Have any questions or feedback? We’d love to hear from you. Contact us at support@docnavigator.in.
 
